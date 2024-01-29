@@ -1,1 +1,1 @@
-# Data_Literacy-DWD_rain_data
+# Data Litercy - Analysis of daily precipitation
